@@ -220,10 +220,10 @@ h6 {
     #ede9fe 100%
   );
   /* 📍 If you would like to use a hero image instead of a color, replace the url below with your image file and uncomment (make active) the following 4 CSS rules */
-  /* background-image: url("assets/hero-image.jpg");
+  background-image: url("assets/hero-image.jpg");
   background-size: cover;
   background-position: center;
-  background-repeat: no-repeat; */
+  background-repeat: no-repeat;
   padding-top: 80px; /* offset for fixed navbar */
   overflow: hidden;
 }
