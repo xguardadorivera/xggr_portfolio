@@ -220,7 +220,7 @@ h6 {
     #ede9fe 100%
   );
   /* 📍 If you would like to use a hero image instead of a color, replace the url below with your image file and uncomment (make active) the following 4 CSS rules */
-  background-image: url("/images/Xenia_Guardado_Rivera_Headshot_2026.jpg");
+  /*background-image: url("/images/Xenia_Guardado_Rivera_Headshot_2026.jpg");*/
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
